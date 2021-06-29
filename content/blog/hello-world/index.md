@@ -20,6 +20,11 @@ Oh, and here's a great quote from this Wikipedia on
 > firm-textured, round yolk that is bright orange-red in color.
 
 ![Chinese Salty Egg](./salty_egg.jpg)
+![Chinese Salty Egg](./1.png)
+![Chinese Salty Egg](./2.png)
+![Chinese Salty Egg](./3.png)
+![Chinese Salty Egg](./4.png)
+
 
 You can also write code blocks here!
 
